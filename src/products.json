@@ -1,0 +1,131 @@
+[
+    {
+      "id": 1,
+      "name": "Hamburger",
+      "description": "Juicy beef patty on a toasted bun with lettuce, tomato, and pickles.",
+      "price": 8.99,
+      "category": "Burgers",
+      "extras": [
+        "Bacon", "Barbecue Sauce", "Patty"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Cheeseburger",
+      "description": "Our classic hamburger topped with melted cheddar cheese.",
+      "price": 9.99,
+      "category": "Burgers",
+      "extras": [
+        "Bacon", "Barbecue Sauce", "Patty"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Bacon Cheeseburger",
+      "description": "Our cheeseburger topped with crispy bacon.",
+      "price": 11.99,
+      "category": "Burgers",
+      "extras": [
+        "Bacon", "Barbecue Sauce", "Patty"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Veggie Burger",
+      "description": "A delicious plant-based patty topped with fresh veggies.",
+      "price": 9.99,
+      "category": "Burgers",
+      "extras": [
+        "Bacon", "Barbecue Sauce", "Patty"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Chicken Sandwich",
+      "description": "Grilled or fried chicken breast on a bun with lettuce and tomato.",
+      "price": 8.99,
+      "category": "Sandwiches",
+      "extras": [
+        "Bacon", "Barbecue Sauce", "Patty"
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Philly Cheesesteak",
+      "description": "Thinly sliced steak with grilled onions and peppers, topped with melted provolone cheese.",
+      "price": 10.99,
+      "category": "Sandwiches",
+      "extras": [
+        "Bacon", "Barbecue Sauce", "Patty"
+      ]
+    },
+    {
+      "id": 7,
+      "name": "BLT Sandwich",
+      "description": "Crispy bacon, lettuce, and tomato on toasted bread.",
+      "price": 7.99,
+      "category": "Sandwiches",
+      "extras": [
+        "Bacon", "Barbecue Sauce", "Patty"
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Grilled Cheese Sandwich",
+      "description": "Melted American and cheddar cheese on grilled bread.",
+      "price": 5.99,
+      "category": "Sandwiches",
+      "extras": [
+        "Bacon", "Barbecue Sauce", "Patty"
+      ]
+    },
+    {
+      "id": 9,
+      "name": "French Fries",
+      "description": "Crispy, golden fries seasoned with our special blend of spices.",
+      "price": 3.99,
+      "category": "Sides"
+    },
+    {
+      "id": 10,
+      "name": "Onion Rings",
+      "description": "Thick-cut onion rings coated in a crunchy batter and deep-fried to perfection.",
+      "price": 4.99,
+      "category": "Sides"
+    },
+    {
+      "id": 11,
+      "name": "Mozzarella Sticks",
+      "description": "Breaded and fried mozzarella cheese sticks served with marinara sauce.",
+      "price": 5.99,
+      "category": "Sides"
+    },
+    {
+      "id": 12,
+      "name": "Caesar Salad",
+      "description": "Romaine lettuce, croutons, Parmesan cheese, and our homemade Caesar dressing.",
+      "price": 7.99,
+      "category": "Salads"
+    },
+    {
+      "id": 13,
+      "name": "Greek Salad",
+      "description": "Mixed greens, feta cheese, Kalamata olives, and our homemade Greek dressing.",
+      "price": 8.99,
+      "category": "Salads"
+    },
+    {
+      "id": 14,
+      "name": "Chicken Caesar Salad",
+      "description": "Grilled chicken breast on a bed of romaine lettuce, croutons, Parmesan cheese, and our homemade Caesar dressing.",
+      "price": 9.99,
+      "category": "Salads"
+    },
+    {
+      "id": 15,
+      "name": "Coke",
+      "description": "A can of almost-freezing Coke.",
+      "price": 9.99,
+      "category": "Drinks"
+    }
+  ]
