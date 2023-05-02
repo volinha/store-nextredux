@@ -30,13 +30,15 @@ const SearchInput = () => {
   },[dispatch, search]);
 
   return (
-    <div>
+    <div className="flex flex-col w-full overflow-hidden gap-3">
       <input
         type='text'
-        className='text-black'
+        className='text-black h-10 m-3'
+        placeholder='Type your search...'
         value={search}
         onChange={(e) => dispatch(setSearch(e.target.value))}
       />
+      {search ? <h1>Results for: &quot;{search}&quot;</h1> : ""}
       <ProductsTable products={search.length ? data ?? [] : startupProducts} />
     </div>
   );

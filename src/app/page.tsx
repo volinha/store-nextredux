@@ -14,7 +14,10 @@ export default async function Home() {
     <main>
       <Preloader products={data} />
       <Providers>
+        <div className="flex flex-col items-center justify-center">
+
         <SearchInput />
+        </div>
       </Providers>
     </main>
   );
